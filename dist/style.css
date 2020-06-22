@@ -1,0 +1,68 @@
+body {background-color: white;}
+canvas{
+  height:450px;
+  width:350px;
+  border:4px solid;
+  }
+
+.can1{
+  margin-left:450px;
+  
+  margin-right:30px;
+}
+
+.can2{
+  margin-right:100px;
+}
+h1{
+  text-align:center;
+  font-family:Sofia;
+  color:magenta;
+  font-size:50pt;
+}
+
+input{
+  font-size:16pt;
+  font-family:Sofia;
+  font-weight:bold;
+  margin-right:100px;
+  border-radius:10px;
+  background-color:magenta;
+  color:white;
+}
+
+.tab { 
+       display:inline-block; 
+       margin-left: 40px; 
+}
+
+#finput{
+  font-family:Sofia;
+  height:34px;
+  width:300px;
+  font-size:22px;
+  font-weight:bold;
+   border: solid;
+  border-radius: 10px;
+  
+}
+
+.custom,select{
+  font-family:Sofia;
+  font-size:18pt;
+  font-weight:bold;
+  border-radius:10px;
+  background-color:magenta;
+  color:white;
+}
+
+button{
+  font-family:Sofia;
+  height:40px;
+  width:150px;
+  font-size:18pt;
+  background-color:magenta;
+  color:white;
+  border-radius:10px;
+  font-weight:bold;
+}
